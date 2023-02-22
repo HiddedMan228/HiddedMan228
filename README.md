@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS and, perhaps JavaScript,
 - 💞️ I’m looking to collaborate on everyone,
 - 📫 How to reach me for gmail (selanskijk@gmail.com).
+- 📫∋ So, Email my Team (hiddedteam@gmail.com)
 
 <!---
 HiddedMan228/HiddedMan228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
